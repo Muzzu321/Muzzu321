@@ -67,4 +67,5 @@ Spring Boot backend implementing authentication, booking workflows, inventory ma
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/muzammilmeraj) • [GitHub](https://github.com/Muzzu321)
+[LinkedIn](https://www.linkedin.com/in/muzammilmeraj) • [GitHub](https://github.com/Muzzu321)
+
